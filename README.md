@@ -122,7 +122,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/eattrenclenhard/eattrenclenhard/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/eattrenclenhard/eattrenclenhard/output/snake.svg#gh-light-mode-only" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/eattrenclenhard/eattrenclenhard/output/snake.svg#gh-dark-mode-only" alt="Snake animation" />
 
 ###
 
